@@ -1,8 +1,11 @@
 # 💫 About Me:
 👋 Hi there, I'm **Sadhana K**  
+
 🌐 A curious mind navigating the digital world with code and creativity.  
 🎓 Currently pursuing **B.Tech in IT** at **KPR Institute of Engineering and Technology**  
 💻 Passionate about building responsive web apps and solving real-world problems through technology.
+
+📬 Ping me: sadhanakaruppusamy266@gmail.com
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.sadhu._26)
