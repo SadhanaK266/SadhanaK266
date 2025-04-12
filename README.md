@@ -1,5 +1,9 @@
 # 💫 About Me:
-Hi I'm Sadhana.
+👋 Hi there, I'm Sadhana K
+
+🌐 A curious mind navigating the digital world with code and creativity.  
+🎓 B.Tech IT student at **KPR Institute of Engineering and Technology**  
+💻 Passionate about building responsive web apps and solving real-world problems throug
 
 
 ## 🌐 Socials:
